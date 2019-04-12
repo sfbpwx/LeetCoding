@@ -24,6 +24,12 @@ public class Code_9_IsPalindrome {
 	
 	public static void main(String args[]){
 		Code_9_IsPalindrome a = new Code_9_IsPalindrome();
-		System.out.println(a.isPalindrome(0));
+		System.out.println(a.isPalindrome1(1234554321));
 	}
+	
+	public boolean isPalindrome1(int x) {
+        StringBuilder str = new StringBuilder(String.valueOf(x));
+        return str.toString().equals(str.reverse().toString());
+        //Stringbuffer的写法 效率最高
+    }
 }
