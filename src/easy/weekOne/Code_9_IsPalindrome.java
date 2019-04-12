@@ -2,7 +2,6 @@ package easy.weekOne;
 
 import java.util.ArrayList;
 import java.util.List;
-
 public class Code_9_IsPalindrome {
 	public boolean isPalindrome(int x) {
 		if(x>Integer.MAX_VALUE||x<Integer.MIN_VALUE){
@@ -21,7 +20,10 @@ public class Code_9_IsPalindrome {
         resultLong = (x>=0?resultLong:resultLong+"-");
         return (String.valueOf(x).equals(resultLong)?true:false);
     }
-	
+	/**
+	 * 
+	 * @param args try do not use String function
+	 */
 	public static void main(String args[]){
 		Code_9_IsPalindrome a = new Code_9_IsPalindrome();
 		System.out.println(a.isPalindrome1(1234554321));
