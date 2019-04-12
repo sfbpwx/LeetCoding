@@ -27,6 +27,7 @@ public class Code_1_TwoSum {
             }
             map.put(nums[i],i);   
         }
+        //Iterator的遍历方法
 //        Iterator<Map.Entry<Integer,Integer>> mapA = map.entrySet().iterator();
 //        while(mapA.hasNext()){
 //        	Map.Entry<Integer, Integer> entry = mapA.next(); 
