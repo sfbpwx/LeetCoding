@@ -41,7 +41,11 @@ public class Trie {
             p = p.children[index];
         }
         //此情况主要用于排除pattern是空的情况下的问题。（即没有执行for循环的情况下）
-        if(p.isEndingChar==false)return  false;
-        else return  true;
+        if(p.isEndingChar==false){
+            return  false;
+        }
+        else {
+            return  true;
+        }
     }
 }

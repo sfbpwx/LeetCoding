@@ -1,7 +1,5 @@
 package geekTime.DataStruct.WordsMatch;
 
-import java.util.regex.Matcher;
-
 public class BM {
     //全局变量或成员变量
     private static final int SIZE = 256;
@@ -50,7 +48,8 @@ public class BM {
             int x = i+(j-bc[(int)a[i+j]]);
             //匹配玩坏字符以后，开始好前缀的匹配方法
             int y = 0;
-            if(j<m-1){//如果有好前缀的话
+            //如果有好前缀的话
+            if(j<m-1){
                 y = moveByGS(j,m,suffix,prefix);
             }
             i = i+ Math.max(x,y);
@@ -82,13 +81,19 @@ public class BM {
         //b[0,i]
         for(int i=0;i<m-1;i++){
             int j=i;
-            int k=0;//公共后缀字符长度
-            while(j>=0 &&b[j]==b[m-i-k]){//与b[0,m-1]求公共后缀子串
+            //公共后缀字符长度
+            int k=0;
+            //与b[0,m-1]求公共后缀子串
+            while(j>=0 &&b[j]==b[m-i-k]){
                 --j;
                 ++k;
-                suffix[k]=j+1;//j+1 表示公共后缀子串在b[0,i]中的起始下标
+                //j+1 表示公共后缀子串在b[0,i]中的起始下标
+                suffix[k]=j+1;
             }
-            if(j==-1)prefix[k]=true;//如果公共后缀子串也是模式串的前缀子串
+            if(j==-1){
+                //如果公共后缀子串也是模式串的前缀子串
+                prefix[k]=true;
+            }
         }
     }
 
