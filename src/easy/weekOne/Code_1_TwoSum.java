@@ -1,7 +1,6 @@
 package easy.weekOne;
 
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 public class Code_1_TwoSum {
@@ -27,7 +26,7 @@ public class Code_1_TwoSum {
             }
             map.put(nums[i],i);   
         }
-        //IteratorµÄ±éÀú·½·¨
+        //Iteratorï¿½Ä±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 //        Iterator<Map.Entry<Integer,Integer>> mapA = map.entrySet().iterator();
 //        while(mapA.hasNext()){
 //        	Map.Entry<Integer, Integer> entry = mapA.next(); 
