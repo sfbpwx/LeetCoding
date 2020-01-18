@@ -2,15 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96bc71c6-5be2-4630-8f27-5dee76a5ba3e" name="Default Changelist" comment="关于listNode的">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/20180119graph.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/20200118ParallelAlgorithm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/20200118RedisDataStructure.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekTime/DataStruct/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekTime/DataStruct/heap/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_13_RomanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_13_RomanToInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_14_LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_14_LongestCommonPrefix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_1_TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_20_IsValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_20_IsValid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_21_MergeTwoSortedLists$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_21_MergeTwoSortedLists$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_21_MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_21_MergeTwoSortedLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_26_RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_26_RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_27_RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_27_RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_28_StrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_28_StrStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_35_SearchInsert.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_35_SearchInsert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_38_CountAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_38_CountAndSay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_53_MaxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_53_MaxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_58_LengthOfLastWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_58_LengthOfLastWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_66_PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_66_PlusOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_67_AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_67_AddBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_69_MySqrt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_69_MySqrt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_70_ClimbStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_70_ClimbStairs.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_7_ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_7_ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekOne/Code_9_IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekOne/Code_9_IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/easy/weekTwo/addTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/easy/weekTwo/addTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/geekTime/DataStruct/WordsMatch/BM.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/geekTime/DataStruct/WordsMatch/BM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/geekTime/DataStruct/WordsMatch/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/geekTime/DataStruct/WordsMatch/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/geekTime/DataStruct/trieTree/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/geekTime/DataStruct/trieTree/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/geekTime/DataStruct/trieTree/TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/geekTime/DataStruct/trieTree/TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/utils/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/utils/ListNode.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -20,66 +43,147 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/weekOne/Code_1_TwoSum.java">
+        <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="792">
+              <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/weekTwo/addTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+            <state relative-caret-position="1464">
+              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utils/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <entry file="file://$PROJECT_DIR$/note/20200117B+Tree.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="192">
+                <caret line="8" column="34" selection-end-line="88" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/WordsMatch/BM.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2496">
-              <caret line="104" column="5" selection-start-line="99" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
+        <entry file="file://$PROJECT_DIR$/note/20200118index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="528">
+                <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/WordsMatch/KMP.java">
+        <entry file="file://$PROJECT_DIR$/note/20200118ParallelAlgorithm.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="264">
+                <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/20200118RedisDataStructure.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="72">
+                <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/heap/Heap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="441">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/trieTree/Trie.java">
+        <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="-168">
+              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/20180119graph.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="296">
+                <caret line="43" selection-start-line="43" selection-end-line="43" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="markdown" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>swap</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,23 +196,138 @@
         <option value="$PROJECT_DIR$/src/geekTime/DataStruct/trieTree/Trie.java" />
         <option value="$PROJECT_DIR$/src/geekTime/DataStruct/WordsMatch/BM.java" />
         <option value="$PROJECT_DIR$/src/geekTime/DataStruct/WordsMatch/KMP.java" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/DynamicProgramming/ForBag.java" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/binarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/aa.java" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/note/B+Tree.md" />
+        <option value="$PROJECT_DIR$/note/index.md" />
+        <option value="$PROJECT_DIR$/note/20200117index.md" />
+        <option value="$PROJECT_DIR$/note/20200118ParallelAlgorithm.md" />
+        <option value="$PROJECT_DIR$/note/20200118RedisDataStructure.md" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/heap/Heap.java" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/graph/aa.java" />
+        <option value="$PROJECT_DIR$/note/20180119graph.md" />
+        <option value="$PROJECT_DIR$/src/geekTime/DataStruct/graph/Graph.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1320" />
-    <option name="height" value="784" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="922" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="binarySearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="binaryTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="DynamicProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="trieTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStruct" type="462c0819:PsiDirectoryNode" />
+              <item name="WordsMatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,7 +338,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -139,7 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="geekTime.DataStruct.WordsMatch.KMP" />
       <module name="leetcode" />
@@ -153,8 +375,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="geekTime.DataStruct.sort.QuickSort" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekTime.DataStruct.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.KMP" />
       </list>
     </recent_temporary>
@@ -172,6 +408,12 @@
       <workItem from="1577103324771" duration="336000" />
       <workItem from="1578445075893" duration="4609000" />
       <workItem from="1578618060393" duration="807000" />
+      <workItem from="1578729301895" duration="2017000" />
+      <workItem from="1578834266676" duration="6629000" />
+      <workItem from="1579005561397" duration="5481000" />
+      <workItem from="1579266168075" duration="490000" />
+      <workItem from="1579266727040" duration="6642000" />
+      <workItem from="1579353908002" duration="7405000" />
     </task>
     <task id="LOCAL-00001" summary="关于listNode的">
       <created>1577103454895</created>
@@ -187,16 +429,44 @@
       <option name="project" value="LOCAL" />
       <updated>1578448418461</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="关于listNode的">
+      <created>1578845781797</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578845781797</updated>
+    </task>
+    <task id="LOCAL-00004" summary="B+tree">
+      <created>1579271652085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579271652085</updated>
+    </task>
+    <task id="LOCAL-00005" summary="B+tree">
+      <created>1579272495431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579272495431</updated>
+    </task>
+    <task id="LOCAL-00006" summary="索引">
+      <created>1579277377084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579277377084</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5752000" />
+    <option name="totallyTimeSpent" value="34416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="0" y="0" width="922" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25290024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -206,7 +476,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2606438" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -215,29 +485,66 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32872504" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3336853" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32917964" />
       <window_info anchor="bottom" id="MyBatis Log" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" weight="0.32946634" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Redis Servers" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25290024" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2606438" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.3336853" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32917964" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" weight="0.32946634" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Redis Servers" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="关于listNode的" />
     <MESSAGE value="更新kmp算法，并把其他的内容注释进行补充" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新kmp算法，并把其他的内容注释进行补充" />
+    <MESSAGE value="关于listNode的" />
+    <MESSAGE value="B+tree" />
+    <MESSAGE value="索引" />
+    <option name="LAST_COMMIT_MESSAGE" value="索引" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -248,24 +555,16 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/geekTime/DataStruct/sort/QuickSort.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/easy/weekOne/Code_1_TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/weekTwo/addTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -282,24 +581,225 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/WordsMatch/KMP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="216">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/trieTree/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/listnode/hasCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/DynamicProgramming/ForBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/weekTwo/addTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/weekOne/Code_1_TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/B+Tree" />
+    <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/binarySearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1464">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/20200117B+Tree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="192">
+            <caret line="8" column="34" selection-end-line="88" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/binaryTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/20200118index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="528">
+            <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/20200118ParallelAlgorithm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="264">
+            <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/20200118RedisDataStructure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="72">
+            <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/heap/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/20180119graph.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="296">
+            <caret line="43" selection-start-line="43" selection-end-line="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekTime/DataStruct/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
