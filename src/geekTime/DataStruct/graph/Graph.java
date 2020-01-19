@@ -74,6 +74,11 @@ public class Graph { // 无向图
 
     boolean found = false; // 全局变量或者类成员变量
 
+    /**
+     * 有个比较特殊的变量 found，它的作用是，当我们已经找到终止顶点 t 之后，我们就不再递归地继续查找了
+     * @param s
+     * @param t
+     */
     public void dfs(int s, int t) {
         found = false;
         boolean[] visited = new boolean[v];
