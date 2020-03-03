@@ -38,7 +38,9 @@ public class Graph { // 无向图
      * @param t
      */
     public void bfs(int s, int t) {
-        if (s == t) return;
+        if (s == t) {
+            return;
+        }
         boolean[] visited = new boolean[v];
         visited[s]=true;
         Queue<Integer> queue = new LinkedList<>();
